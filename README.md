@@ -28,6 +28,9 @@ Download mobile app for Android Devices
 https://github.com/garvitkataria/Ionic-Calendar-App/blob/master/android-debug.apk
 
 
+(Turn on the USB debugging option first.)
+
+
 
 
 Backend server is hosted at pythonanywhere.com
